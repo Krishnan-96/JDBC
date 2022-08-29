@@ -77,8 +77,13 @@ public class Logic {
 				maxValue = h.getValue();
 			}
 		}
+
+//		System.out.println(maxKey + "="+maxValue);
+
+		System.out.println(maxKey + "=" + maxValue);
 		
-		System.out.println(maxKey + "="+maxValue);
+		
+		System.out.println(maxKey + "=" + maxValue);
 
 	}
 }
