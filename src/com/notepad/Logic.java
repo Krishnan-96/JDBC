@@ -81,6 +81,9 @@ public class Logic {
 //		System.out.println(maxKey + "="+maxValue);
 
 		System.out.println(maxKey + "=" + maxValue);
+		
+		
+		System.out.println(maxKey + "=" + maxValue);
 
 	}
 }
